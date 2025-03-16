@@ -19,13 +19,13 @@ This is a simple Task Management System built using Node.js and Express. It allo
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/airflow-task-management.git
+    git clone https://github.com/jadaundiv/Airflow-Task-Management-System.git
     ```
 
 2. **Navigate to the project directory:**
 
     ```bash
-    cd airflow-task-management
+    cd Airflow-Task-Management-System
     ```
 
 3. **Install dependencies:**
